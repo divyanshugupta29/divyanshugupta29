@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQGu66GSIhqW8A/profile-displayphoto-shrink_800_800/0/1716406437499?e=1727913600&v=beta&t=ZztJzgk95Nl3Wv-lEoUNVB2lmTtQE-OvtYRJFaBC5JA"/>
+<img align="right" alt="Coding" width="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg"/>
 
 - 🔭 I’m currently working on **Job Portal**
 
