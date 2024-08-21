@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<img align="right" alt="Coding" width="250" src="https://images.playground.com/e25be6c1adfd4f42a89104ad8d2db59f.jpeg"/>
+<img align="right" alt="Coding" width="400" src="https://images.playground.com/e25be6c1adfd4f42a89104ad8d2db59f.jpeg"/>
 
 - 🔭 I’m currently working on **Job Portal**
 
